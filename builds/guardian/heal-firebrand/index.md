@@ -1,8 +1,13 @@
 ---
+title: Heal Firebrand
 hidden: false
 archive: false
+rating: Good
+role: Support
 author: Ascers.6082
+profession: Guardian
 specialization: Firebrand
+conditions: []
 boons:
   - name: Quickness
     uptime: 150%
@@ -26,19 +31,14 @@ boons:
     uptime: 78%
     variant: group
 code: "[&DQExLy4/PhZLFwAAehYAAAAAAAAWAQAAGBYAAAAAAAAAAAAAAAAAAAAAAAACWgAyAAA=]"
+cmGuide: pug
 classification:
   - 4
   - 1
   - 3
   - 1
   - 2
-date: "2024-08-28T19:41:59.370Z "
-title: Heal Firebrand
-rating: Good
-role: Support
-profession: Guardian
-conditions: []
-cmGuide: pug
+date: "2024-09-15T17:32:28.785Z "
 ---
   
 <Warning> 
@@ -98,6 +98,7 @@ traits3Id="62" traits3="Firebrand" traits3SelectedIds="2101,2063,2105"/>
 | <Trait name="Honorable Staff" size="big" disableText/>         | Can be taken for some extra <Attribute name="Concentration"/> which will increase your <Attribute name="Boon Duration"/> if you are not at 100%. Also can be used to reduce Staff skills cooldown, notably <Skill name="Empower"/>, which can help with <Boon name="Might"/> uptime.                           |
 | <Trait name="Pure of Heart" size="big" disableText/>         | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds.                           |
 | <Trait name="Resolute Subconscious" size="big" disableText/> | Use this when you are not using any Consecration skill while running the Virtues trait line.                                                  |
+| <Trait name="Stalwart Speed" size="big" disableText/>   | If you find it difficult to maintaining <Boon name="Quickness"/>, this can be uneful. Especially when your players are often scattered. |
 
 </Card>
 </GridItem>
