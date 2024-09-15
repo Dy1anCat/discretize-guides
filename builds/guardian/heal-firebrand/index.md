@@ -38,7 +38,7 @@ classification:
   - 3
   - 1
   - 2
-date: "2024-09-15T17:32:28.785Z "
+date: "2024-09-15T17:37:23.387Z "
 ---
   
 <Warning> 
@@ -228,8 +228,8 @@ All Tomes are built similarly:
 - Skill 1 creates an effect in a cone in front of you.
 - Skill 2 creates an effect around you.
 - Skill 3 is a ground target skill.
-- Skill 4 creates a field.
-- Skill 5 grants a unique buff to your allies.
+- Skill 4 creates a field with additional effects.
+- Skill 5 grants a unique buff to your allies, significant impact at critical moments.
 
 <Skill name="Tome of Justice" />:
 
